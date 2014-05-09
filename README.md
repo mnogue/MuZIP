@@ -9,12 +9,7 @@ Note that there are not many image viewers that open .ppm images. In fact, Apple
 Information
 -----------
 
-All credit to Martí-Joan Nogué Coll - Catsoft-Studios 2011.
-More information about the code can be found at
-
-[mnogue.com/experiments][1]
-
-If you have any questions drop us a line by making use of the contact page.
+All credit to Martí-Joan Nogué Coll - mnogue 2014.
 
 Installation
 ------------
